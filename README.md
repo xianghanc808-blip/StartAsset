@@ -1,2 +1,2 @@
-# StartAsset
-第三人称移动相关练习
+# Starter_Assets
+第三人称资源包
